@@ -1,0 +1,24 @@
+
+Elemento no encontrado :
+
+Elemento encontrado en la posición:4
+
+Elemento encontrado en la posición:3
+
+Elemento no encontrado :
+
+Elemento encontrado en la posición:1
+
+Elemento encontrado en la posición:2
+
+Elemento encontrado en la posición:4
+
+Elemento no encontrado :
+
+Elemento encontrado en la posición:5
+
+Elemento encontrado en la posición:5
+
+Elemento encontrado en la posición:2
+
+Elemento encontrado en la posición:1
